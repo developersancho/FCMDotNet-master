@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>$author$</authors>
+    <owners>$author$</owners>
+    <licenseUrl>https://github.com/chedabob/FCMDotNet/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/chedabob/FCMDotNet/</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Fix issue where the response error data was not visible in the FCMException</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>firebase fcm gcm apns</tags>
+  </metadata>
+</package>
